@@ -7,7 +7,7 @@ Labels: 🟢 good place to start · 🔵 needs specialist knowledge · 🔴 foun
 ## Strategy
 - 🔴 **Q1.** Build new, adopt and govern existing open networks, or create a protocol-neutral commons layer? (RFC 001, §6)
 - 🔴 **Q2.** Should ODCF aim to *replace* commercial platforms, or to offer a public alternative that coexists with them?
-- 🟢 **Q3.** Which existing open projects should we talk to first, and how do we approach them as partners rather than competitors?
+- 🟢 **Q3.** Which existing initiatives should we talk to first (for example the European Citizens' Initiative organisers, Open Future, Fediverse and AT Protocol communities, Eurosky, Free Our Feeds), and how do we approach them as partners rather than competitors? (RFC 001, §5)
 - 🟢 **Q4.** What does "success" look like in 1, 5 and 10 years?
 
 ## Independence and the role of states (WG 1, WG 4)
@@ -42,3 +42,4 @@ Labels: 🟢 good place to start · 🔵 needs specialist knowledge · 🔴 foun
 ## This project itself
 - 🟢 **Q24.** Is "Open Digital Commons Framework" a good name? Is there a better one that works across languages?
 - 🟢 **Q25.** Which civil-society organisations should be invited to review RFC 001?
+- 🟢 **Q26.** How can ODCF best support the European Citizens' Initiative for a public social network, and similar calls elsewhere, without duplicating them? Is anyone already drafting a governance model we should join instead? (RFC 001, §5.4)
